@@ -1,0 +1,55 @@
+MATERI BUAT TUBES METNUM
+1. metode grafik
+2. metode bisection
+3. metode posisi salah
+4. metode iterasi sederhana
+5. metode newton raphson
+6. metode secant
+7. norm vektor
+8. metode eliminasi gaus
+9. metode gaus jordan
+10. metode iterasi jacobi
+11. metode iterasi gauss seidel
+12. interpolasi 
+- interpolasi linear
+- interpolasi kuadratik
+- interpolasi polinomial
+13. interpolasi lagrange
+14. runge kutta
+- runge kutta orde 1
+- runge kutta orde 2
+15. regresi linear
+- kriteria pencocokan (fitting) terbaik
+- lest squares eror
+- kualifiskasi eror 
+16. regresi polinomial
+17. integral numerik
+18. metode pias
+- metode segiempat
+- metode integral trapesium
+19. metode newton cotes
+20. metode trapesium
+21. metode trapesium membagi batas integral menjadi n bagian
+22. metode simpson 1/3
+23. metode simpson 1/3: membagi batas integral menjadi n bagian
+24. metode simpson 3/8
+25. pendekatan turunan numerik
+- turunan pertama 
+  = selisih maju
+  = selisih mundur
+  = selisih pusat 
+- turunan kedua
+  = selisih maju
+  = selisih mundur
+  = selisih pusat 
+26. metode euler
+27. metode heun
+28. metode runge kutta
+- metode runge kutta orde 2
+- metode runge kutta orde 3
+- metode runge kutta orde 4
+
+
+
+
+
